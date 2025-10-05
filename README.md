@@ -16,7 +16,7 @@
 ## 🌐 Connect with Me
 - 📫 **Email:** ezzarlina@gmail.com 
 - 🌐 **My Resume:**
-  - [ATS Compatible CV](https://github.com/Linaezzar1/EzzarLina_Academic_CV)
+  - [ATS Compatible CV](https://github.com/Linaezzar1/EzzarLina_Academic_CV.pdf.git)
 - 📱 **Social:**
   - [LinkedIn](https://linkedin.com/in/lina-ezzar-75b830290/)
   - [Facebook](https://facebook.com/lina.ezzar.1)
