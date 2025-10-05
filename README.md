@@ -14,8 +14,8 @@
 ## 🌐 Connect with Me
 - 📫 **Email:** ezzarlina@gmail.com 
 - 🌐 **My Resume:** 
-- 📱 **Social:** [LinkedIn]([link](https://www.linkedin.com/in/lina-ezzar-75b830290/)) | [Facebook]([link](https://www.facebook.com/lina.ezzar.1)) 
-
+- 📱 **Social:** [LinkedIn](https://www.linkedin.com/in/lina-ezzar-75b830290/) | [Facebook](https://www.facebook.com/lina.ezzar.1)
+  
 ---
 
 ## 🛠️ Skills
