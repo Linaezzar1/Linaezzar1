@@ -13,8 +13,10 @@
 
 ## 🌐 Connect with Me
 - 📫 **Email:** ezzarlina@gmail.com 
-- 🌐 **My Resume:** 
-- 📱 **Social:** • [LinkedIn](https://www.linkedin.com/in/lina-ezzar-75b830290/) • [Facebook](https://www.facebook.com/lina.ezzar.1)
+- 🌐 **My Resume:**
+- 📱 **Social:**
+  - [LinkedIn](https://linkedin.com/in/lina-ezzar-75b830290/)
+  - [Facebook](https://facebook.com/lina.ezzar.1) 
   
 ---
 
