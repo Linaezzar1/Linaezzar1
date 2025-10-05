@@ -1,4 +1,6 @@
-# Hello 👋, I'm EZZAR Lina | IT Student | Tech Enthusiast | Passionate About Creating Solutions!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋,+I'm+EZZAR+Lina;IT+Student;Tech+Enthusiast;Passionate+About+Creating+Solutions!&center=true&size=25&color=00FF00&width=600&height=50&duration=2000&pause=1000">
+</p>
 
 ---
 
