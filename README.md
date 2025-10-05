@@ -16,11 +16,11 @@
 ## 🌐 Connect with Me
 - 📫 **Email:** ezzarlina@gmail.com 
 - 🌐 **My Resume:**
-  - [Download PDF]([https://github.com/Unaezzari/my-cv/raw/main/your-cv.pdf](https://github.com/Linaezzar1/EzzarLina_Academic_CV.pdf.git))
+  - [Download PDF](https://github.com/Linaezzar1/EzzarLina_Academic_CV/raw/main/EzzarLina_Academic_CV.pdf)
 - 📱 **Social:**
   - [LinkedIn](https://linkedin.com/in/lina-ezzar-75b830290/)
-  - [Facebook](https://facebook.com/lina.ezzar.1) 
-  
+  - [Facebook](https://facebook.com/lina.ezzar.1)
+    
 ---
 
 ## 🛠️ Skills
