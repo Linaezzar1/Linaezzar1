@@ -1,5 +1,7 @@
 # Hello 👋, I'm EZZAR Lina | IT Student | Tech Enthusiast | Passionate About Creating Solutions!
 
+---
+
 ## 👋 About Me
 - **Name:** Lina
 - **Role:** It Student
@@ -7,10 +9,14 @@
 - **Passion:** Building scalable solutions
 - **Interests:** Technology, Music, Reading Poetry
 
+---
+
 ## 🌐 Connect with Me
 📫 **Email:** ezzarlina@gmail.com 
 🌐 **My Resume:** 
 📱 **Social:** [LinkedIn]([link](https://www.linkedin.com/in/lina-ezzar-75b830290/)) | [Facebook]([link](https://www.facebook.com/lina.ezzar.1)) 
+
+---
 
 ## 🛠️ Skills
 
@@ -22,7 +28,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
 
 ### Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -34,19 +39,19 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
 ### Tools & Technologies
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle Database  
 - **Development Tools:** Git, VS Code  
 - **Methodologies:** Agile (Scrum), Clean Architecture, Microservices
 
----
 
 ### Deployment & DevOps
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![SSL](https://img.shields.io/badge/SSL-008000?style=for-the-badge&logo=lock&logoColor=white)
 ![Reverse Proxy](https://img.shields.io/badge/Reverse%20Proxy-F7E017?style=for-the-badge&logo=proxy&logoColor=black)
+
+---
 
 ## 💼 Experience
 
@@ -57,6 +62,8 @@
 ### ENNAKL AUTOMOBILES_Stage d’initiation  (Janvier 2024)
 
 **Overview:** Front-end interface development for a web application and acquisition of basic knowledge in cybersecurity.
+
+---
 
 ## 💻 Projects
 ### 👥 Iset-exams
