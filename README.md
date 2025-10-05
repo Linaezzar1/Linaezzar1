@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋,+I'm+EZZAR+Lina;IT+Student+and+Tech+Enthusiast;Passionate+About+Creating+Solutions!&center=true&size=30&color=00008B&width=700&height=60&duration=2000&pause=1000&weight=700">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋,+I'm+EZZAR+Lina;IT+Student+ | +Tech+Enthusiast;Passionate+About+Creating+Solutions!&center=true&size=30&color=00008B&width=700&height=60&duration=2000&pause=1000&weight=700">
 </p>
 
 ---
