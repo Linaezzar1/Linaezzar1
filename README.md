@@ -60,7 +60,7 @@
 
 ## 💼 Experience
 
-### ERNST & YOUNG (EY)_Stage de perfectionnement (Janvier 2025 - Février 2025)
+### [ERNST & YOUNG (EY)_Stage de perfectionnement (Janvier 2025 - Février 2025)](https://github.com/Linaezzar1/StagePerfectionnement-FullProject)
 
 **Overview:** Development and deployment of an internal code-sharing platform.
 
@@ -82,7 +82,7 @@
 
 ---
 
-### ✨ Open2Win
+### [✨ Open2Win](https://github.com/Linaezzar1/O2W-FullProject)
 **Overview:** Web platform that allows users to buy and open surprise boxes featuring a variety of products.
 
 **🛠️ Tech Stack:**  
@@ -94,7 +94,7 @@
 
 ---
 
-### 📱 Smatch
+### [📱 Smatch](https://github.com/Linaezzar1/Smatch-FullProject)
 **Overview:** Smatch is a mobile and web platform for managing volleyball matches and tournaments, with an integrated e-commerce shop and a built-in messaging system for players.
 
 **🛠️ Tech Stack:**
