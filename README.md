@@ -88,7 +88,6 @@
 **Overview:** Web platform that allows users to buy and open surprise boxes featuring a variety of products.
 
 **🛠️ Tech Stack:**  
-**🛠️ Tech Stack:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
