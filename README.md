@@ -63,10 +63,12 @@
 ### [ERNST & YOUNG (EY)_Stage de perfectionnement (Janvier 2025 - Février 2025)](https://github.com/Linaezzar1/StagePerfectionnement-FullProject)
 
 **Overview:** Development and deployment of an internal code-sharing platform.
+- **Tech Stack:** ReactJS, Node.js, Express.js, JWT
 
 ### ENNAKL AUTOMOBILES_Stage d’initiation  (Janvier 2024)
 
 **Overview:** Front-end interface development for a web application and acquisition of basic knowledge in cybersecurity.
+- **Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
