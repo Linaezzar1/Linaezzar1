@@ -105,5 +105,21 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+---
+
+### [🧠 Menthera]
+**Overview:** Menthera is a mobile application for an intelligent psychological assistant that analyzes the user’s emotional state based on voice tone detection. The system evaluates the case using AI, provides personalized feedback, and includes an integrated payment system, psychological quizzes for patients, and a web-based dashboard for monitoring and management. The project was developed using the Scrum methodology.
+
+**🛠️ Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Scrum](https://img.shields.io/badge/Methodology-Scrum-blue?style=flat-square)
 
 
