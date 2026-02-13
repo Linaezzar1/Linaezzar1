@@ -107,7 +107,7 @@
 
 ---
 
-### [🧠 Menthera]
+### 🧠 Menthera
 **Overview:** Menthera is a mobile application for an intelligent psychological assistant that analyzes the user’s emotional state based on voice tone detection. The system evaluates the case using AI, provides personalized feedback, and includes an integrated payment system, psychological quizzes for patients, and a web-based dashboard for monitoring and management. The project was developed using the Scrum methodology.
 
 **🛠️ Tech Stack:**  
